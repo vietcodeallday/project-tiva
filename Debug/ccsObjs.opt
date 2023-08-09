@@ -1,0 +1,13 @@
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./Confirm/Confirm.obj"
+"./Filter/Filter.obj"
+"./GPIO/GPIO.obj"
+"./State/State.obj"
+"./State_out/State_out.obj"
+"./Systick/Systick.obj"
+"./Timer1/Timer1.obj"
+"./Timer_0/Timer_0.obj"
+"./UART/UART.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
